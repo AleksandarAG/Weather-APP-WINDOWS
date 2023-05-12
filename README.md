@@ -1,4 +1,4 @@
-# AlexPrograms
+# Weather-APP-WINDOWS
 Weather APP
 
 This is a short project I've been working on in my spare time. The application is made for the Windows system and should show accurate weather forecasts for all cities and other weather information.
